@@ -26,7 +26,7 @@ Este projeto apresenta um site informativo sobre o sistema operacional **Android
    ```bash
    git clone https://github.com/seu-usuario/AndroidPage.git
    
-## 📖 Como Usar
+ou
 
 Abra o arquivo `index.html` no navegador para explorar o conteúdo.
 
